@@ -1,6 +1,6 @@
 # First Responsive Portfolio Website
 
-##Features
+## Features
 
 - Responsive Personal Portfolio Website Using Pure HTML CSS & JavaScript
 - Smooth Scrolling in each section.
